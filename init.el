@@ -73,6 +73,14 @@
 (require 'init-marmalade)
 (require 'init-misc)
 
+;; add by loopcm
+(require 'init-nav)
+(require 'init-personal)
+(require 'init-magit)
+(require 'init-tabbar)
+(require 'init-cplusplus)
+(require 'init-yasnippet)
+
 
 ;;----------------------------------------------------------------------------
 ;; Allow access from emacsclient

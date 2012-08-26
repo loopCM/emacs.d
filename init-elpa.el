@@ -191,4 +191,16 @@ ARCHIVE is the string name of the package archive.")
 (require-package 'vc-darcs)
 (require-package 'whole-line-or-region)
 
+;; add by loopcm
+(require-package 'nav)  ;; emacs nav   like TextMate's file browser
+(require-package 'google-c-style)
+(require-package 'tabbar)
+(require-package 'yasnippet)
+(require-package 'auto-complete)
+(require-package 'fuzzy)
+(require-package 'auto-complete-clang)
+
+
+
+
 (provide 'init-elpa)

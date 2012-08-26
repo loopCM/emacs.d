@@ -24,3 +24,16 @@ environments too, with any Emacs version >= 23. If not, please file an
 issue on the github project: https://github.com/purcell/emacs.d
 
 -Steve Purcell
+
+
+
+
+
+Frok from https://github.com/purcell/emacs.d
+
+    * expend the basic as c/c++(mainly) python and some script
+
+    * remove some not use plugin 
+
+
+* TODO  support WINDOWS 
