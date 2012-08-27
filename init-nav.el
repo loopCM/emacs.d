@@ -3,7 +3,7 @@
 (require 'nav)
 (nav-disable-overeager-window-splitting)
 ;; Optional: set up a quick key to toggle nav
-;; (global-set-key [f8] 'nav-toggle)
+(global-set-key [C-f1] 'nav-toggle)
 
 
 (provide 'init-nav)

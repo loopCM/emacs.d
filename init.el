@@ -76,10 +76,11 @@
 ;; add by loopcm
 (require 'init-nav)
 (require 'init-personal)
-(require 'init-magit)
 (require 'init-tabbar)
 (require 'init-cplusplus)
 (require 'init-yasnippet)
+(require 'init-template)
+
 
 
 ;;----------------------------------------------------------------------------
@@ -93,7 +94,8 @@
 ;;----------------------------------------------------------------------------
 ;; Variables configured via the interactive 'customize' interface
 ;;----------------------------------------------------------------------------
-(setq custom-file "~/.emacs.d/custom.el")
+;(setq custom-file "~/.emacs.d/custom.el")
+;
 (load custom-file)
 
 
