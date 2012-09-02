@@ -6,4 +6,5 @@
 (global-set-key [C-f1] 'nav-toggle)
 
 
+
 (provide 'init-nav)

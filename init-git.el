@@ -15,6 +15,7 @@
 
 (eval-after-load 'magit
   '(progn
+     (require 'magit-key-mode)
      (require 'magit-svn)))
 
 (autoload 'rebase-mode "rebase-mode")

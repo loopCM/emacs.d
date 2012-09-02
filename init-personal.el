@@ -6,7 +6,9 @@
 (setq user-full-name "loopcm")
 (setq user-mail-address "loop.cm@gmail.com")
 
-(global-linum-mode 1) ; always show line numbers
+;;(global-linum-mode 1) ; always show line numbers
+
+(set-default-font " -unknown-Ubuntu Mono-bold-normal-normal-*-15-*-*-*-m-0-iso10646-1")
 
 
 
@@ -36,6 +38,9 @@
         (unfold-this-sexp)))))
 (global-set-key (kbd "C-c C-f") 'sexp-code-folding-dwim)
 
+
+;; Bookmarks
+;;(setq bookmark-default-file "~/.emacs.d/.bookmarks")
 
 (provide 'init-personal)
 

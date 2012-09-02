@@ -56,7 +56,7 @@
  /usr/include/c++/4.7/backward
  /usr/local/include
  /usr/lib/gcc/i686-linux-gnu/4.7/include
- /usr/lib/gcc/i686-linux-gnu/4.4.5/include-fixed
+ /usr/lib/gcc/i686-linux-gnu/4.7/include-fixed
  /usr/include/i386-linux-gnu
  /usr/include
 ")))
